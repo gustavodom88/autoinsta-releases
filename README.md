@@ -14,10 +14,6 @@ Acesse [releases](https://github.com/gustavodom88/autoinsta-releases/releases/la
 
 Veja o guia: [INSTALACAO.md](https://github.com/gustavodom88/autoinsta/blob/master/Sistema/docs/INSTALACAO.md)
 
-## Suporte
-
-E-mail: gustavo@alvesdomingues.com.br
-
 ---
 
 > **Nota:** Esse repositório contém apenas binários compilados. O código-fonte é privado.
